@@ -9,6 +9,10 @@ header {
   width: 100%;
 }
 
+.hero a {
+  border-radius: 6px;
+}
+
 .header-content {
   display: flex;
   align-items: center;
